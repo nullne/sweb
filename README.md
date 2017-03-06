@@ -2,7 +2,7 @@
 Swagger Editor Backend
 
 sweb opens swagger editor and save the content every n seconds. Except this, @nullne add feature static file server so
-that people can dive into their local changes immediately by exploring url: `127.0.0.1:8765/swagger.yaml` in the swagger UI.
+that people can dive into their local changes immediately by exploring url: `127.0.0.1:8765/static/swagger.yaml` in the swagger UI.
 Don't forget to remove your leading test url from your object definition because there is no more need once they are deployed
 online.
 
